@@ -1,4 +1,4 @@
-# the-complete-2018-fullstack-web-developer-course
+# ZERO to HERO Python 3 FULL STACK MASTERCLASS 45 AI Projects
 
 About this course
 
