@@ -1,9 +1,7 @@
 # ZERO to HERO Python 3 FULL STACK MASTERCLASS 45 AI Projects
 
 About this course
-
-Learn HTML, HTML5, CSS, CSS3, Javascript, PHP, JQuery, Ajax &amp; MySQL from scratch. Build a login system at the end.
-
+HTML To Artificial Intelligence Deep Learning bootcamp Cornell University course w/Machine Learning! New for 2018!
 Course content
 
 ###### Section 03: HTML
