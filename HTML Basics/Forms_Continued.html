@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Forms Continued</title>
+    </head>
+    <body>
+        <h1>Log In</h1>
+        <h2>Enter your Password and Email</h2>
+        <form action="https://google.com" method="get">
+            <label>
+                EMAIL:
+                <input type="email" name="useremail" placeholder="Email here">
+            </label>
+            <label>
+                PASSWORD:
+                <input type="password" name="password" placeholder="Password">
+            </label>
+            <label for="userinput">TEXT:</label>
+            <input type="text" id="userinput" name="input" placeholder="Enter Text Here" required>
+            <input type="submit">                 
+        </form>
+
+        <form>
+            <fieldset>
+                <legend>1st field set: </legend>
+                Field one:<br />
+                <input type="text"><br />
+                Field two: <br />
+                <input type="text"><br />
+            </fieldset>
+            Title: Fullstack Course
+            <fieldset>
+                <legend>2 Field set:</legend>
+                Field Three<br />
+                <input type="text"><br />
+                Field Four<br />
+                <input type="text"><br />
+            </fieldset>
+            <input type="submit" value="Submit">
+        </form>
+
+    </body>
+</html>
