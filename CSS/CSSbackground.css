@@ -1,0 +1,21 @@
+body {
+  background: url(https:www.survoldefrance.fr/photos/highdef/6/6439.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+div {
+  background: black;
+  border: green;
+  border-width: thick;
+  border-style: dotted;
+}
+
+p {
+  color: yellow;
+}
+
+span{
+  background: red;
+  color: black;
+}

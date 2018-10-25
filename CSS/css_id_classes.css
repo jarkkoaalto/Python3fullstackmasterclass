@@ -1,0 +1,26 @@
+.firstdiv{
+    color: blue;
+}
+.secnddiv{
+    background-color: red;
+}
+
+#singleout{
+    color: blue;
+    text-decoration: underline;
+}
+*{
+    color: blue;
+}
+h3 + ul{
+    border: 3px dotted red;
+}
+
+li a{
+    color: black;
+}
+li a[href="https://udemy.com"]{
+    color: gold;
+    border: 5px solid orange;
+}
+    

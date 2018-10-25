@@ -2,7 +2,7 @@
 
 About this course
 
-Learn HTML, HTML5, CSS, CSS3, Javascript, PHP, JQuery, Ajax &amp; MySQL from scratch. Build a login system at the end.
+Learn HTML, HTML5, CSS, CSS3, Javascript, PHP, JQuery, Ajax and MySQL from scratch. Build a login system at the end.
 
 Course content
 
