@@ -1,0 +1,13 @@
+element.style{
+}
+*{
+    color: blue;
+}
+
+html{
+    display: block;
+}
+
+ul {
+    border: 2px solid red; 
+}
